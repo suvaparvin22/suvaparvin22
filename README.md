@@ -7,7 +7,7 @@
 
 ## 🎓 About Me  
 I'm a **Cybersecurity major at Rochester Institute of Technology (RIT)** with a deep passion for **quantum technologies**, **cyber defense**, and **adversary emulation**.  
-I'm currently exploring how **quantum mechanics** can enhance digital trust, deception, and cryptographic security.
+I'm currently exploring how **Quantum + Cybersecurity** can enhance digital trust, deception, and cryptographic security.
 
 ---
 
@@ -30,7 +30,7 @@ plans, track progress, and coordinate with faculty to enhance academic success.
 - 🎓 **Dean’s List (2022–Present)**  
 - 🧩 **Qiskit Global Summer School 2024 & 2025 — Quantum Excellence**  
 - 🏆 **Outstanding Student Club Award — DEDSEC (2023)**
-- - 🏆 **Academic Excellence — Outstanding academic performance (2021-2022)** 
+- 🏆 **Academic Excellence — Outstanding academic performance (2021-2022)** 
 
 ---
 
