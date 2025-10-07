@@ -47,12 +47,6 @@ plans, track progress, and coordinate with faculty to enhance academic success.
 
 ---
 
-<!-- Optional GitHub Stats Section -->
-## 📊 GitHub Stats  
-![Suva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suvaparvinsrithe&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvaparvinsrithe&layout=compact&theme=radical)
-
----
 
 ⭐️ *“Exploring the intersection of quantum computing and cybersecurity — where the future of digital defense begins.”*  
 ⚡ Fun fact: I can speak 6 languages
