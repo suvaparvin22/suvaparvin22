@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suva Parvin Srithe  
 
-💻 **Cybersecurity Student | Quantum Computing Enthusiast | Researcher**  
+💻 **PhD Student ECE- Optics| Cybersecurity Graduate | Quantum Computing Enthusiast | Researcher**  
 🌍 Based in Rochester, NY | [🌐 suvaparvinsrithe.com](https://suvaparvinsrithe.com)
 
 ---
