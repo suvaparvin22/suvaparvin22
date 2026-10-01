@@ -6,7 +6,7 @@
 ---
 
 ## 🎓 About Me  
-I'm a **Cybersecurity major at Rochester Institute of Technology (RIT)** with a deep passion for **quantum technologies**, **cyber defense**, and **adversary emulation**.  
+I'm currently a **PhD student in ECE-Optics at University of Rochester**,**Graduated in BS Cybersecurity from Rochester Institute of Technology (RIT)** with a deep passion for **quantum technologies**, **cyber defense**, and **adversary emulation**.  
 I'm currently exploring how **Quantum + Cybersecurity** can enhance digital trust, deception, and cryptographic security.
 
 ---
